@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://alejandromicheloud.github.io/csb-kcksv/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://alejandromicheloud.github.io/csb-kcksv/static/js/main.b288b62c.chunk.js",
+    "main.js.map": "https://alejandromicheloud.github.io/csb-kcksv/static/js/main.b288b62c.chunk.js.map",
+    "runtime-main.js": "https://alejandromicheloud.github.io/csb-kcksv/static/js/runtime-main.7114466e.js",
+    "runtime-main.js.map": "https://alejandromicheloud.github.io/csb-kcksv/static/js/runtime-main.7114466e.js.map",
+    "static/js/2.ddce9bf0.chunk.js": "https://alejandromicheloud.github.io/csb-kcksv/static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.ddce9bf0.chunk.js.map": "https://alejandromicheloud.github.io/csb-kcksv/static/js/2.ddce9bf0.chunk.js.map",
+    "index.html": "https://alejandromicheloud.github.io/csb-kcksv/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://alejandromicheloud.github.io/csb-kcksv/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://alejandromicheloud.github.io/csb-kcksv/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7114466e.js",
+    "static/js/2.ddce9bf0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b288b62c.chunk.js"
+  ]
+}
